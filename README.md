@@ -1,6 +1,6 @@
 ## GEOG5995M-Final-Project
 # Background/Context of project
-This project provides a framework for local authorities to assess and monitor the variable which has the strongest link to air quality. It can be used and adapted by any local authorities/stakeholders who wish to identify which dimension from the CDRC's AHAH multi-dimensional index may be contributing to poorer health-related features of local areas (LSOA's). 
+This project provides a framework for local authorities to answer the question "what key variable should local authorities in York use to measure and monitor air quality and how does York compare to the rest of the UK?". It can be used and adapted by any local authorities/stakeholders who wish to identify which dimension from the CDRC's AHAH multi-dimensional index may be contributing to poorer health-related features of local areas (LSOA's). 
 
 ## What data the GitHub repository contains
 * Jupyter notebook
